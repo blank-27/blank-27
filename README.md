@@ -1,7 +1,7 @@
 <h2>Hey 👋, I'm <a href="https://github.com/blank-27/">Harshdeep</a></h2>
 <p>I'm currently a sophomore Student at Indian Institute of Information Technology based in 🌁 Lucknow. I am working on some side projects, learning a couple new dishes, and trying to conquer the world as Tannu Tuva in HOI4.</p>
 <!-- <p><a href="#"><img src="https://img.shields.io/badge/-blank-27.me-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://blank-27.me" alt="Website Badge"></a> <a href="https://www.linkedin.com/in/harsh-deep-061661193/"><img src="https://img.shields.io/badge/-@blank-27-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/harsh-deep-061661193/" alt="LinkedIn Badge"></a> <a href="https://dev.to/blank27"><img src="https://img.shields.io/badge/-@blank-27-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=https://dev.to/blank27" alt="DevTo Badge"></a> <a href="https://open.spotify.com/user/rickdogg07"><img src="https://img.shields.io/badge/-@Stanley%20Lim-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/rickdogg07" alt="Spotify Badge"></a></p> -->
-<img align="right" src="https://image.myanimelist.net/ui/Ik_Vp0LpzawyH5e_tQqsN_TJ4bYk7_c8QtP4446o6pjjOuhW6Cq21e73S2Ijjo7HF56gIOS9H8FTodLfFLZKmguszHgExEcRtwGnlsULugBAuNqtIbZ6aGHWa3P7oRdH" />
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on Some Side projects</a>.</li>
